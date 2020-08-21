@@ -1,0 +1,33 @@
+{
+    "extends": [
+        "airbnb",
+        "eslint:recommended",
+        "plugin:react/recommended"
+    ],
+    "settings": {
+      "import/relosver": {
+        "alias": [
+          "components",
+          "./src/components"
+        ],
+        "webpack": {
+          "config" : {
+            "resolver": {
+              "extensions": [
+                ".js",
+                "jsx"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "globals": {
+      "document": true
+    },
+    "plugins": [
+        "react"
+    ],
+    "rules": {
+    }
+}
