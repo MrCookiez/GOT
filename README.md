@@ -1,7 +1,7 @@
 # G.O.T. Characters
 -------------------
 
-> Live: Preview: https://5e9f923bf7e149ba408aec00--upbeat-lichterman-f671c4.netlify.app/
+> Live: Preview: https://got-characters-teo-vragkos.netlify.app/
 
 ### API
 * https://anapioficeandfire.com/ (main data)
